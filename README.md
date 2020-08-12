@@ -24,17 +24,17 @@ The `ecc-cmdex-red` is a development toolkit used to develop `Internet-of-Things
 
 ---
 
-## Doanload the `ECC-CMDEX-RED`
+## :open_file_folder: Download the `ECC-CMDEX-RED`
 
 >Download these two installers and install them
 
-- [ecc-node-red](https://drive.google.com/file/d/1_w3V2QOH12pPdnvg_LwPgPszZWubtUjJ/view?usp=sharing)
+- :dvd: [ecc-node-red](https://drive.google.com/file/d/1_w3V2QOH12pPdnvg_LwPgPszZWubtUjJ/view?usp=sharing)
 
-- [ecc-cmdex-tools](https://drive.google.com/file/d/1k7KJwgWtqNRLI-Ubqe4PUDn2INBIj7n2/view?usp=sharing)
+- :cd: [ecc-cmdex-tools](https://drive.google.com/file/d/1k7KJwgWtqNRLI-Ubqe4PUDn2INBIj7n2/view?usp=sharing)
 
 ---
 
-## Install the `ECC-CMDEX-RED`
+## :floppy_disk: Install the `ECC-CMDEX-RED`
 
 - Run the installers, the `ecc-node-red` and `ecc-cmdex-tools`, as `administrator`.
 
@@ -42,6 +42,6 @@ The `ecc-cmdex-red` is a development toolkit used to develop `Internet-of-Things
 
 ---
 
-# Tutorials (YouTube Videos)
+# :clapper: Tutorials (YouTube Videos)
 
 >Will be provided later
