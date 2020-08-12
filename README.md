@@ -16,7 +16,7 @@ The `ecc-cmdex-red` is a development toolkit used to develop `Internet-of-Things
 
 - `Console Windows` for displaying all system information.
 
-- `Dockable Windows` for controlable layout, the flexible working environment.
+- `Controlable Layout`, the flexible working environment.
 
 - etc.
 
@@ -26,12 +26,22 @@ The `ecc-cmdex-red` is a development toolkit used to develop `Internet-of-Things
 
 ## Doanload the `ECC-CMDEX-RED`
 
+>Download these two installers and install them
+
+- [ecc-node-red](https://drive.google.com/file/d/1_w3V2QOH12pPdnvg_LwPgPszZWubtUjJ/view?usp=sharing)
+
+- [ecc-cmdex-tools](https://drive.google.com/file/d/1k7KJwgWtqNRLI-Ubqe4PUDn2INBIj7n2/view?usp=sharing)
 
 ---
 
 ## Install the `ECC-CMDEX-RED`
 
+- Run the installers, the `ecc-node-red` and `ecc-cmdex-tools`, as `administrator`.
+
+- Follow the instructions of the installers.
 
 ---
 
-# Tutorials
+# Tutorials (YouTube Videos)
+
+>Will be provided later
