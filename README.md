@@ -46,4 +46,4 @@ The `ecc-cmdex-red` is a development toolkit used to develop `Internet-of-Things
 
 # :clapper: Tutorials (YouTube Videos)
 
->Will be provided later
+:movie_camera: [YouTube Videos](https://www.youtube.com/playlist?list=PLBPFpqyTjzeW4XQpMCFQiOmvrtYOh-2IH)
