@@ -47,7 +47,7 @@ The `ecc-cmdex-red` is a development toolkit used to develop `Internet-of-Things
 
 ## :cd: Software Activation
 
-- Goto directory `C:\ecc-lab\tools` and run the `ecc-tools-manager.exe` as `administrator`.
+- Go to directory `C:\ecc-lab\tools` and run the `ecc-tools-manager.exe` as `administrator`.
 
 - Click the `Activate` button, wait till the operation is completed, then close the `Activate`.
   
