@@ -16,7 +16,7 @@ The `ecc-cmdex-red` is a development toolkit used to develop `Internet-of-Things
 
 - `Console Windows` for displaying all system information.
 
-- `Controlable Layout`, the flexible working environment.
+- `Controllable Layout`, the flexible working environment.
 
 - etc.
 
@@ -28,19 +28,29 @@ The `ecc-cmdex-red` is a development toolkit used to develop `Internet-of-Things
 
 >Download these three installers and install them
 
-- :floppy_disk: [ecc-lab-tools](https://drive.google.com/file/d/1ua2V8_DXyO1gwbfTRWcyRmY8oQZDfgJG/view?usp=sharing)
-
 - :floppy_disk: [ecc-node-red](https://drive.google.com/file/d/1oaxWeGhQrhDxabsukegIremWuz2cVIU1/view?usp=sharing)
 
 - :floppy_disk: [ecc-cmdex-red](https://drive.google.com/file/d/1uGBCAHHluZPn7d7LmAdQOVay2om5ELks/view?usp=sharing)
+  
+- :floppy_disk: [ecc-lab-tools](https://drive.google.com/file/d/1ua2V8_DXyO1gwbfTRWcyRmY8oQZDfgJG/view?usp=sharing)
 
+> Update: 18 February 2022
 ---
 
 ## :floppy_disk: Install the `ECC-CMDEX-RED`
 
-- Run the installers, the `ecc-node-red`, `ecc-cmdex-red`, and `ecc-cmdex-tools`, as `administrator`.
+- Run the installers, the `ecc-node-red`, `ecc-cmdex-red`, and `ecc-lab-tools`, as `administrator`.
 
 - Follow the instructions of the installers.
+
+---
+
+## :cd: Software Activation
+
+- Goto directory `C:\ecc-lab\tools` and run the `ecc-tools-manager.exe` as `administrator`.
+
+- Click the `Activate` button, wait till the operation is completed, then close the `Activate`.
+![](./images/activator.png)
 
 ---
 
