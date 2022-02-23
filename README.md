@@ -30,7 +30,7 @@ The `ecc-cmdex-red` is a development toolkit used to develop `Internet-of-Things
 
 - :floppy_disk: [ecc-node-red](https://drive.google.com/file/d/1oaxWeGhQrhDxabsukegIremWuz2cVIU1/view?usp=sharing)
 
-- :floppy_disk: [ecc-cmdex-red](https://drive.google.com/file/d/1uGBCAHHluZPn7d7LmAdQOVay2om5ELks/view?usp=sharing)
+- :floppy_disk: [ecc-cmdex-red](https://drive.google.com/file/d/1Zh50xdt-7orhfPvfW8cVX-OdOKbwv4hr/view?usp=sharing)
   
 - :floppy_disk: [ecc-lab-tools](https://drive.google.com/file/d/1ua2V8_DXyO1gwbfTRWcyRmY8oQZDfgJG/view?usp=sharing)
 
